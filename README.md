@@ -2,8 +2,6 @@
   <img alt="Happy" title="Happy" src=".github/header.png" />
 </h1>
 
-<blockquote align="center">“Leve felicidade para o mundo. Visite orfanatos e mude o dia de muitas crianças.”!</blockquote>
-
 <p align="center">
   <a href="https://rocketseat.com.br/">
     <img alt="Made by Rocketseat" src="https://img.shields.io/static/v1?label=Made%20by&message=Rocketseat&color=fde910">
