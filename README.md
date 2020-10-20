@@ -2,3 +2,4 @@
   HAPPY
 </h1>
 
+<img src="./github/happy.png">
